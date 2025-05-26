@@ -10,4 +10,4 @@ Durante mayo y junio de 2023, el proyecto ha sido realizado en conjunto por 3 es
 
 *The entire process is documented: choice of dataset, data collection and preparation, ETL with Apache Spark and MySQL, model training and data visualization.*
 
-*During May and June 2023, the project has been carried out by three students of the Dual Specialization Course in Artificial Intelligence and Big Data, as mentioned in the files [[EN] Final project.pdf](https://github.com/pmareque/ai-projects/blob/main/stellar-classification/%5BEN%5D%20Final%20project.pdf) and [[ES] Proyecto final.pdf](https://github.com/pmareque/ai-projects/blob/main/stellar-classification/%5BES%5D%20Proyecto%20final.pdf) .
+*During May and June 2023, the project has been carried out by three students of the Dual Specialization Course in Artificial Intelligence and Big Data, as mentioned in the files [[EN] Final project.pdf](https://github.com/pmareque/ai-projects/blob/main/stellar-classification/%5BEN%5D%20Final%20project.pdf) and [[ES] Proyecto final.pdf](https://github.com/pmareque/ai-projects/blob/main/stellar-classification/%5BES%5D%20Proyecto%20final.pdf) .*
